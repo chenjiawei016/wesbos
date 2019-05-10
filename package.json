@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "firebase": "^6.0.1",
+    "now": "^15.2.0",
+    "prop-types": "^15.7.2",
     "re-base": "^4.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -12,7 +14,8 @@
     "react-transition-group": "^4.0.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "dev": "react-scripts start",
+    "start": "serve --single ./build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
