@@ -1,7 +1,7 @@
 const fishes = {
   fish1: {
     name: "Pacific Halibut",
-    image: "../public/images/hali.jpg",
+    image: "/images/hali.jpg",
     desc:
       "Everyones favourite white fish. We will cut it to the size you need and ship it.",
     price: 1724,
@@ -9,7 +9,7 @@ const fishes = {
   },
   fish2: {
     name: "Paci Halit",
-    image: "../public/images/crab.jpg",
+    image: "/images/crab.jpg",
     desc:
       "Everyones favourite white fish. We will cut it to the size you need and ship it.",
     price: 1724,
@@ -17,7 +17,7 @@ const fishes = {
   },
   fish3: {
     name: "Pacific Halibut",
-    image: "../public/images/lobster.jpg",
+    image: "/images/lobster.jpg",
     desc:
       "Everyones favourite white fish. We will cut it to the size you need and ship it.",
     price: 1724,
@@ -25,7 +25,7 @@ const fishes = {
   },
   fish4: {
     name: "Pacific Halibut",
-    image: "../public/images/mahi.jpg",
+    image: "/images/mahi.jpg",
     desc:
       "Everyones favourite white fish. We will cut it to the size you need and ship it.",
     price: 1724,
@@ -33,7 +33,7 @@ const fishes = {
   },
   fish5: {
     name: "Pacific Halibut",
-    image: "../public/images/mussels.jpg",
+    image: "/images/mussels.jpg",
     desc:
       "Everyones favourite white fish. We will cut it to the size you need and ship it.",
     price: 1724,
@@ -41,7 +41,7 @@ const fishes = {
   },
   fish6: {
     name: "Pacific Halibut",
-    image: "../public/images/oyster.jpg",
+    image: "/images/oysters.jpg",
     desc:
       "Everyones favourite white fish. We will cut it to the size you need and ship it.",
     price: 1724,
@@ -49,7 +49,7 @@ const fishes = {
   },
   fish7: {
     name: "Pacific Halibut",
-    image: "../public/images/prawns.jpg",
+    image: "/images/prawns.jpg",
     desc:
       "Everyones favourite white fish. We will cut it to the size you need and ship it.",
     price: 1724,
@@ -57,7 +57,7 @@ const fishes = {
   },
   fish8: {
     name: "Pacific Halibut",
-    image: "../public/images/salmon.jpg",
+    image: "/images/salmon.jpg",
     desc:
       "Everyones favourite white fish. We will cut it to the size you need and ship it.",
     price: 1724,
@@ -65,7 +65,7 @@ const fishes = {
   },
   fish9: {
     name: "Pacific Halibut",
-    image: "../public/images/scallops.jpg",
+    image: "/images/scallops.jpg",
     desc:
       "Everyones favourite white fish. We will cut it to the size you need and ship it.",
     price: 1724,
